@@ -7,3 +7,7 @@
 
 # Getting Started 
 <hr>
+
+#### To run this project locally, Follow the steps:
+1) Clone the Repository:
+git clone <repository-url>
