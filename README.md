@@ -8,5 +8,5 @@
 # Getting Started 
 
 #### To run this project locally, Follow the steps:
-1) Clone the Repository:
+1) Clone the Repository: <br>
 `git clone <repository-url>`
