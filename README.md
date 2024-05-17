@@ -10,5 +10,5 @@
 #### To run this project locally, Follow the steps:
 1) Clone the Repository: <br>
 `git clone <repository-url>`
-2) View the index.html
+2) View the index.html <br>
    Use Live Server extension in your code editor and view the index.html file using live server
